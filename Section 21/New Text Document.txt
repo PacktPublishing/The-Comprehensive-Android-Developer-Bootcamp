@@ -1,0 +1,6 @@
+Resources
+More on Sqlite database in Android: https://developer.android.com/training/data-storage/sqlite
+
+Pay close attention to the warning where they talk about ROOM database architecture as the best choice. 
+
+I decided to show you how to use SQLITE database in Android ( the harder way) because I want to make sure you have a well-rounded way of building databases in Android.

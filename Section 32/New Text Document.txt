@@ -1,0 +1,2 @@
+Resources
+All about Firebase and Firestore: https://firebase.google.com/docs/android/setup/

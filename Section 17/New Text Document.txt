@@ -1,0 +1,2 @@
+Resources
+For more information and steps on setting up android devices for development, please check out this link: https://developer.android.com/studio/run/device

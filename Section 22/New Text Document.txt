@@ -1,0 +1,3 @@
+Resources
+If you are a bit more curious about RecyclerViews and the Holder pattern, here's a good resource for you: https://github.com/codepath/android_guides/wiki/Using-the-RecyclerView
+

@@ -1,0 +1,4 @@
+Resources
+Understanding ML Kit: https://firebase.google.com/docs/ml-kit/
+
+CameraView Library: https://github.com/natario1/CameraView

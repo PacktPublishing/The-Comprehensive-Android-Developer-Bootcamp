@@ -1,0 +1,2 @@
+Resources
+Understanding more about Material Design: https://developer.android.com/guide/topics/ui/look-and-feel

@@ -1,0 +1,3 @@
+Question Bank JSON Link
+You'll need this link (our JSON data source) in the next lecture: https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statements-data.json
+

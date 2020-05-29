@@ -1,0 +1,4 @@
+Resources
+For more information about Android Architecture, please visit:
+
+https://developer.android.com/guide/platform

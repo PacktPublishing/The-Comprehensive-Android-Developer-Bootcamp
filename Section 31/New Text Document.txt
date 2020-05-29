@@ -1,0 +1,8 @@
+Source Code - Full Fragment Project
+Follow the link to get the complete Fragment Project source code: https://github.com/pdichone/UIUX-Android-Course/MyCourseListFragment.zip
+
+
+https://github.com/pdichone/UIUX-Android-Course/blob/master/FragmentIntroduction.zip
+
+Resources on Fragments
+Learn more about fragments and the why: https://developer.android.com/guide/components/fragments

@@ -1,0 +1,7 @@
+** IMPORTANT*** Please Read
+It's important that you create your own firestore/firebase account in order for this to work.  The application we are going to be building is only going to work if you have followed the steps I'll be showing you in the next videos.
+
+Also, note that the Self source code you can download at the end of this section will no longer work if you were to run it.  This is because I removed all of my personal Firebstore/Firebase information for obvious reasons.  So, please, please, set up your own firebase/firestore project/account and follow along. 
+
+Thank you.
+

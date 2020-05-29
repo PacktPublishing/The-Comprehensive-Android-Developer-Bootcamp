@@ -1,0 +1,2 @@
+Resources
+Google Admob: https://developers.google.com/admob/android/quick-start

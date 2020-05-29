@@ -1,0 +1,4 @@
+Resources
+More on User Location: https://developer.android.com/training/location
+
+More on Maps (Google Maps, that is): https://developers.google.com/maps/documentation/android-sdk/start

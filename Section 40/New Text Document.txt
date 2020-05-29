@@ -1,0 +1,2 @@
+Resources
+Create a Google Play Developer Account: https://support.google.com/googleplay/android-developer/answer/6112435?hl=en

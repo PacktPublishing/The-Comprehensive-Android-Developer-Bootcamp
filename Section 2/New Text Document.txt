@@ -1,0 +1,2 @@
+Fix VTX Issues on BIOS - Resources
+Please follow this videos to fix the VTX Issue on Windows machine: https://www.youtube.com/watch?v=vP71TkSh67M
